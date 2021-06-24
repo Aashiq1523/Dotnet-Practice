@@ -4,6 +4,60 @@
     "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Model\\Sample.Model.csproj": {}
   },
   "projects": {
+    "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Dto\\Sample.Dto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Dto\\Sample.Dto.csproj",
+        "projectName": "Sample.Dto",
+        "projectPath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Dto\\Sample.Dto.csproj",
+        "packagesPath": "C:\\Users\\Aashiq\\.nuget\\packages\\",
+        "outputPath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Dto\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Aashiq\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Model\\Sample.Model.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -28,6 +82,9 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
+              "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Dto\\Sample.Dto.csproj": {
+                "projectPath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Dto\\Sample.Dto.csproj"
+              },
               "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Util\\Sample.Util.csproj": {
                 "projectPath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Util\\Sample.Util.csproj"
               }
@@ -43,6 +100,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
