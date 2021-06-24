@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "98zXVZliwO0YNi4NnkwpfCtsyFJVvw8YK+kZJqFhbJ7nWciqu3tyH5EI9NWStnM4yv0S3JGV8HPfCxITvbx27w==",
+  "dgSpecHash": "3Rsu5CDeOxdmJXFwXkvf3SBVTQbI0F8Cq+vKrUpUA4/S1AvUtZgZVdgRgTFCa+cEHA2BcdWGwEjKxYHc75mPWA==",
   "success": true,
-  "projectFilePath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Util\\Sample.Util.csproj",
+  "projectFilePath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetcoreSampleWebAPI\\Sample.Util\\Sample.Util.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aashiq\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Aashiq\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UGaaV2f/avvriDNhZm8l6ijNyJ0yFG339wl5lU4MEqAPnpblm9zE+RaqQOKAX/HLvzGEasBmD3zNv65Kj1oNPA==",
+  "dgSpecHash": "o4o9+f3i8ctToWp7rFDbQ6uyMHvhw111jLEe9F+znQi+w5Nsk39Z23u7kAWSlkp8s2kyaIpr0EZoCjVQpPBQIA==",
   "success": true,
-  "projectFilePath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Web\\Sample.Web.csproj",
+  "projectFilePath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetcoreSampleWebAPI\\Sample.Web\\Sample.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aashiq\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Aashiq\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

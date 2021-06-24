@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cXRlF/DJCPaYW7Jg+SbplUGTVzr54L9kcw5RELfEpUT8dM2iP2yduQD2rNt/9gqSpLO38aaTvkBu1aXBFtIymA==",
+  "dgSpecHash": "OdDTsNMQ08Qsdsmux6YRCt0deYIhGWtvmmGKLPVzgXt7hEnbdLmNsM+dqrG53U6ieXhQlHeEz8UEWqGxR+Lxtg==",
   "success": true,
-  "projectFilePath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Model\\Sample.Model.csproj",
+  "projectFilePath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetcoreSampleWebAPI\\Sample.Model\\Sample.Model.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aashiq\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Aashiq\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

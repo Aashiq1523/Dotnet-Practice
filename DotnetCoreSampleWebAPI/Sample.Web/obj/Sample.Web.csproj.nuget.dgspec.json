@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Web\\Sample.Web.csproj": {}
+    "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetcoreSampleWebAPI\\Sample.Web\\Sample.Web.csproj": {}
   },
   "projects": {
-    "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Dao\\Sample.Dao.csproj": {
+    "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetcoreSampleWebAPI\\Sample.Dao\\Sample.Dao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Dao\\Sample.Dao.csproj",
+        "projectUniqueName": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetcoreSampleWebAPI\\Sample.Dao\\Sample.Dao.csproj",
         "projectName": "Sample.Dao",
-        "projectPath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Dao\\Sample.Dao.csproj",
+        "projectPath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetcoreSampleWebAPI\\Sample.Dao\\Sample.Dao.csproj",
         "packagesPath": "C:\\Users\\Aashiq\\.nuget\\packages\\",
-        "outputPath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Dao\\obj\\",
+        "outputPath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetcoreSampleWebAPI\\Sample.Dao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aashiq\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Dto\\Sample.Dto.csproj": {
-                "projectPath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Dto\\Sample.Dto.csproj"
+              "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetcoreSampleWebAPI\\Sample.Dto\\Sample.Dto.csproj": {
+                "projectPath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetcoreSampleWebAPI\\Sample.Dto\\Sample.Dto.csproj"
               },
-              "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Util\\Sample.Util.csproj": {
-                "projectPath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Util\\Sample.Util.csproj"
+              "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetcoreSampleWebAPI\\Sample.Util\\Sample.Util.csproj": {
+                "projectPath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetcoreSampleWebAPI\\Sample.Util\\Sample.Util.csproj"
               }
             }
           }
@@ -75,14 +75,14 @@
         }
       }
     },
-    "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Dto\\Sample.Dto.csproj": {
+    "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetcoreSampleWebAPI\\Sample.Dto\\Sample.Dto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Dto\\Sample.Dto.csproj",
+        "projectUniqueName": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetcoreSampleWebAPI\\Sample.Dto\\Sample.Dto.csproj",
         "projectName": "Sample.Dto",
-        "projectPath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Dto\\Sample.Dto.csproj",
+        "projectPath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetcoreSampleWebAPI\\Sample.Dto\\Sample.Dto.csproj",
         "packagesPath": "C:\\Users\\Aashiq\\.nuget\\packages\\",
-        "outputPath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Dto\\obj\\",
+        "outputPath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetcoreSampleWebAPI\\Sample.Dto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aashiq\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -129,14 +129,14 @@
         }
       }
     },
-    "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Model\\Sample.Model.csproj": {
+    "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetcoreSampleWebAPI\\Sample.Model\\Sample.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Model\\Sample.Model.csproj",
+        "projectUniqueName": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetcoreSampleWebAPI\\Sample.Model\\Sample.Model.csproj",
         "projectName": "Sample.Model",
-        "projectPath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Model\\Sample.Model.csproj",
+        "projectPath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetcoreSampleWebAPI\\Sample.Model\\Sample.Model.csproj",
         "packagesPath": "C:\\Users\\Aashiq\\.nuget\\packages\\",
-        "outputPath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Model\\obj\\",
+        "outputPath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetcoreSampleWebAPI\\Sample.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aashiq\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -153,11 +153,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Dto\\Sample.Dto.csproj": {
-                "projectPath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Dto\\Sample.Dto.csproj"
+              "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetcoreSampleWebAPI\\Sample.Dto\\Sample.Dto.csproj": {
+                "projectPath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetcoreSampleWebAPI\\Sample.Dto\\Sample.Dto.csproj"
               },
-              "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Util\\Sample.Util.csproj": {
-                "projectPath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Util\\Sample.Util.csproj"
+              "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetcoreSampleWebAPI\\Sample.Util\\Sample.Util.csproj": {
+                "projectPath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetcoreSampleWebAPI\\Sample.Util\\Sample.Util.csproj"
               }
             }
           }
@@ -196,14 +196,14 @@
         }
       }
     },
-    "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Service\\Sample.Service.csproj": {
+    "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetcoreSampleWebAPI\\Sample.Service\\Sample.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Service\\Sample.Service.csproj",
+        "projectUniqueName": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetcoreSampleWebAPI\\Sample.Service\\Sample.Service.csproj",
         "projectName": "Sample.Service",
-        "projectPath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Service\\Sample.Service.csproj",
+        "projectPath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetcoreSampleWebAPI\\Sample.Service\\Sample.Service.csproj",
         "packagesPath": "C:\\Users\\Aashiq\\.nuget\\packages\\",
-        "outputPath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Service\\obj\\",
+        "outputPath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetcoreSampleWebAPI\\Sample.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aashiq\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -220,11 +220,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Dao\\Sample.Dao.csproj": {
-                "projectPath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Dao\\Sample.Dao.csproj"
+              "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetcoreSampleWebAPI\\Sample.Dao\\Sample.Dao.csproj": {
+                "projectPath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetcoreSampleWebAPI\\Sample.Dao\\Sample.Dao.csproj"
               },
-              "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Model\\Sample.Model.csproj": {
-                "projectPath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Model\\Sample.Model.csproj"
+              "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetcoreSampleWebAPI\\Sample.Model\\Sample.Model.csproj": {
+                "projectPath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetcoreSampleWebAPI\\Sample.Model\\Sample.Model.csproj"
               }
             }
           }
@@ -263,14 +263,14 @@
         }
       }
     },
-    "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Util\\Sample.Util.csproj": {
+    "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetcoreSampleWebAPI\\Sample.Util\\Sample.Util.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Util\\Sample.Util.csproj",
+        "projectUniqueName": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetcoreSampleWebAPI\\Sample.Util\\Sample.Util.csproj",
         "projectName": "Sample.Util",
-        "projectPath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Util\\Sample.Util.csproj",
+        "projectPath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetcoreSampleWebAPI\\Sample.Util\\Sample.Util.csproj",
         "packagesPath": "C:\\Users\\Aashiq\\.nuget\\packages\\",
-        "outputPath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Util\\obj\\",
+        "outputPath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetcoreSampleWebAPI\\Sample.Util\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aashiq\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -323,14 +323,14 @@
         }
       }
     },
-    "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Web\\Sample.Web.csproj": {
+    "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetcoreSampleWebAPI\\Sample.Web\\Sample.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Web\\Sample.Web.csproj",
+        "projectUniqueName": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetcoreSampleWebAPI\\Sample.Web\\Sample.Web.csproj",
         "projectName": "Sample.Web",
-        "projectPath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Web\\Sample.Web.csproj",
+        "projectPath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetcoreSampleWebAPI\\Sample.Web\\Sample.Web.csproj",
         "packagesPath": "C:\\Users\\Aashiq\\.nuget\\packages\\",
-        "outputPath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Web\\obj\\",
+        "outputPath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetcoreSampleWebAPI\\Sample.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aashiq\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -347,14 +347,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Dao\\Sample.Dao.csproj": {
-                "projectPath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Dao\\Sample.Dao.csproj"
+              "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetcoreSampleWebAPI\\Sample.Dao\\Sample.Dao.csproj": {
+                "projectPath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetcoreSampleWebAPI\\Sample.Dao\\Sample.Dao.csproj"
               },
-              "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Model\\Sample.Model.csproj": {
-                "projectPath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Model\\Sample.Model.csproj"
+              "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetcoreSampleWebAPI\\Sample.Model\\Sample.Model.csproj": {
+                "projectPath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetcoreSampleWebAPI\\Sample.Model\\Sample.Model.csproj"
               },
-              "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Service\\Sample.Service.csproj": {
-                "projectPath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Service\\Sample.Service.csproj"
+              "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetcoreSampleWebAPI\\Sample.Service\\Sample.Service.csproj": {
+                "projectPath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetcoreSampleWebAPI\\Sample.Service\\Sample.Service.csproj"
               }
             }
           }

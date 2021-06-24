@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KzKZBC8EKbDgIKIXpCgCGs6806+GR7nq9JfE/D0XuYPKrec30xHOo2KYlGC7SMb4SYZNbzJH0BHTcD9RFtbcSQ==",
+  "dgSpecHash": "oXPgLkrEhBrZ6cKQbxwlznuf6bDjxPnKALHMUDFhCk6/INzQ2OgqOV1cplIqRe3bICVYik3vnRakDkcA8MDCXw==",
   "success": true,
-  "projectFilePath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Service\\Sample.Service.csproj",
+  "projectFilePath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetcoreSampleWebAPI\\Sample.Service\\Sample.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aashiq\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Aashiq\\.nuget\\packages\\exceldatareader\\3.6.0\\exceldatareader.3.6.0.nupkg.sha512",

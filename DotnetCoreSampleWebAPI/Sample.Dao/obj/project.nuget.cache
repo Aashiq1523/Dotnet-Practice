@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EFaqCcPvn3nzmSX1nfEtwROxg/M7GAVFprqtBizxaqNJ5XQczULNBC+ik6gRa3P5RfdKZEbB+i7mI4I4opfBSg==",
+  "dgSpecHash": "7JcX3jq7C7utz7d+yxrLVOvlBSsVPbwO1QCwp9Ueg4NTBwRM4WYT0/8xHBGGF0m7jPtHY/oHfnk/jp1cwqOdCQ==",
   "success": true,
-  "projectFilePath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Dao\\Sample.Dao.csproj",
+  "projectFilePath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetcoreSampleWebAPI\\Sample.Dao\\Sample.Dao.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aashiq\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Aashiq\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
