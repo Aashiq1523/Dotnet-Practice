@@ -1,0 +1,11 @@
+D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetCoreSampleWebAPI\Sample.Util\bin\Debug\net5.0\Sample.Util.deps.json
+D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetCoreSampleWebAPI\Sample.Util\bin\Debug\net5.0\Sample.Util.dll
+D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetCoreSampleWebAPI\Sample.Util\bin\Debug\net5.0\ref\Sample.Util.dll
+D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetCoreSampleWebAPI\Sample.Util\bin\Debug\net5.0\Sample.Util.pdb
+D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetCoreSampleWebAPI\Sample.Util\obj\Debug\net5.0\Sample.Util.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetCoreSampleWebAPI\Sample.Util\obj\Debug\net5.0\Sample.Util.AssemblyInfoInputs.cache
+D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetCoreSampleWebAPI\Sample.Util\obj\Debug\net5.0\Sample.Util.AssemblyInfo.cs
+D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetCoreSampleWebAPI\Sample.Util\obj\Debug\net5.0\Sample.Util.csproj.CoreCompileInputs.cache
+D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetCoreSampleWebAPI\Sample.Util\obj\Debug\net5.0\Sample.Util.dll
+D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetCoreSampleWebAPI\Sample.Util\obj\Debug\net5.0\ref\Sample.Util.dll
+D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetCoreSampleWebAPI\Sample.Util\obj\Debug\net5.0\Sample.Util.pdb
