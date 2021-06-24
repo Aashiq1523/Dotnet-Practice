@@ -1,24 +1,22 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
-using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using Sample.Dao;
 
 namespace Sample.Web
 {
     public class Startup
     {
+        public string connectionString { get; set; }
+
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
+            connectionString = configuration.GetConnectionString("MyDbConnectionStrings");
         }
 
         public IConfiguration Configuration { get; }
@@ -28,9 +26,13 @@ namespace Sample.Web
         {
 
             services.AddControllers();
+
+            // Configuring DB
+            services.AddDbContext<AppDBContext>(options => options.UseSqlServer(connectionString, b => b.MigrationsAssembly("Sample.Dao")));
+
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "Sample.Web", Version = "v1" });
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "DotnetCore Sample", Version = "v1" });
             });
         }
 
@@ -41,7 +43,7 @@ namespace Sample.Web
             {
                 app.UseDeveloperExceptionPage();
                 app.UseSwagger();
-                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Sample.Web v1"));
+                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "DotnetCoreSample v1"));
             }
 
             app.UseHttpsRedirection();
