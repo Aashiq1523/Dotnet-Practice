@@ -9,3 +9,4 @@ D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetCoreSampleWebAPI\Sample.Util\ob
 D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetCoreSampleWebAPI\Sample.Util\obj\Debug\net5.0\Sample.Util.dll
 D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetCoreSampleWebAPI\Sample.Util\obj\Debug\net5.0\ref\Sample.Util.dll
 D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetCoreSampleWebAPI\Sample.Util\obj\Debug\net5.0\Sample.Util.pdb
+D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Util\obj\Debug\net5.0\Sample.Util.csproj.AssemblyReference.cache
