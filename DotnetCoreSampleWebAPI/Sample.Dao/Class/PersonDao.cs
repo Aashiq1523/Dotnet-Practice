@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using Sample.Dao.Interface;
 using Sample.Dto;
 using Sample.Util;
 using System.Collections.Generic;
@@ -6,7 +7,7 @@ using System.Linq;
 
 namespace Sample.Dao.Class
 {
-    public class PersonDao
+    public class PersonDao : IPersonDao
     {
         private readonly AppDBContext _appDbContext;
         private readonly IMapper _mapper;

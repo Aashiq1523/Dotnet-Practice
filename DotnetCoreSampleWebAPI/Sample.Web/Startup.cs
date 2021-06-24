@@ -6,6 +6,11 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
 using Sample.Dao;
+using Sample.Dao.Class;
+using Sample.Dao.Interface;
+using Sample.Model;
+using Sample.Service.Class;
+using Sample.Service.Interface;
 
 namespace Sample.Web
 {
@@ -29,6 +34,13 @@ namespace Sample.Web
 
             // Configuring DB
             services.AddDbContext<AppDBContext>(options => options.UseSqlServer(connectionString, b => b.MigrationsAssembly("Sample.Dao")));
+
+            // AutoMapping
+            services.AddAutoMapper(typeof(AutoMapping));
+
+            // Configuring services
+            services.AddTransient<IPersonDao, PersonDao>();
+            services.AddTransient<IPersonService, PersonService>();
 
             services.AddSwaggerGen(c =>
             {

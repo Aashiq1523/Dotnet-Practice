@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "CkG8Xf5NfJXKQ/BBJYFARSbOSNB/DewDfdjrJzjoKU6SNwBXNmCB9ETLjNnb1joNgEhSrDY0ifeA5l9H2Z1tIA==",
+  "dgSpecHash": "UGaaV2f/avvriDNhZm8l6ijNyJ0yFG339wl5lU4MEqAPnpblm9zE+RaqQOKAX/HLvzGEasBmD3zNv65Kj1oNPA==",
   "success": true,
   "projectFilePath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Web\\Sample.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aashiq\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Aashiq\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "C:\\Users\\Aashiq\\.nuget\\packages\\exceldatareader\\3.6.0\\exceldatareader.3.6.0.nupkg.sha512",
     "C:\\Users\\Aashiq\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Aashiq\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",
     "C:\\Users\\Aashiq\\.nuget\\packages\\microsoft.aspnetcore.authorization\\2.2.0\\microsoft.aspnetcore.authorization.2.2.0.nupkg.sha512",

@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Http;
 using Sample.Dao.Interface;
 using Sample.Dto;
 using Sample.Model;
+using Sample.Service.Interface;
 using Sample.Util;
 using System;
 using System.Collections.Generic;
@@ -12,7 +13,7 @@ using System.Text;
 
 namespace Sample.Service.Class
 {
-    public class PersonService
+    public class PersonService : IPersonService
     {
         private static string UploadedFile;
         private readonly IPersonDao _personDao;

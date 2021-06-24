@@ -15,6 +15,29 @@
           "lib/netstandard2.0/AutoMapper.dll": {}
         }
       },
+      "AutoMapper.Extensions.Microsoft.DependencyInjection/8.1.1": {
+        "type": "package",
+        "dependencies": {
+          "AutoMapper": "[10.1.1, 11.0.0)",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "3.0.0",
+          "Microsoft.Extensions.Options": "3.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll": {}
+        }
+      },
+      "ExcelDataReader/3.6.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/ExcelDataReader.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/ExcelDataReader.dll": {}
+        }
+      },
       "Microsoft.AspNetCore.Authentication.Abstractions/2.2.0": {
         "type": "package",
         "dependencies": {
@@ -1948,6 +1971,36 @@
           "bin/placeholder/Sample.Dto.dll": {}
         }
       },
+      "Sample.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "AutoMapper": "10.1.1",
+          "Sample.Dto": "1.0.0",
+          "Sample.Util": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Sample.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Sample.Model.dll": {}
+        }
+      },
+      "Sample.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "ExcelDataReader": "3.6.0",
+          "Sample.Dao": "1.0.0",
+          "Sample.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Sample.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Sample.Service.dll": {}
+        }
+      },
       "Sample.Util/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -1978,6 +2031,42 @@
         "lib/net461/AutoMapper.xml",
         "lib/netstandard2.0/AutoMapper.dll",
         "lib/netstandard2.0/AutoMapper.xml"
+      ]
+    },
+    "AutoMapper.Extensions.Microsoft.DependencyInjection/8.1.1": {
+      "sha512": "xSWoVzOipuDU4PeZcUfaZQ+xqXU8QmGv5jrdlxt3MYm9xaOmrefqcfzGQ3SQ+D+8wfBa/ZwSuL0qKOVj080inA==",
+      "type": "package",
+      "path": "automapper.extensions.microsoft.dependencyinjection/8.1.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+        "automapper.extensions.microsoft.dependencyinjection.nuspec",
+        "icon.png",
+        "lib/netstandard2.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll"
+      ]
+    },
+    "ExcelDataReader/3.6.0": {
+      "sha512": "eXyxTwG7EEWpgQX3juZ2KcndqTqm/ydx9GXS2lUiMJU54U4h5eXdygRtVgINv0t60ezPWEb+lL7uM7Q+wm5BBA==",
+      "type": "package",
+      "path": "exceldatareader/3.6.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "exceldatareader.3.6.0.nupkg.sha512",
+        "exceldatareader.nuspec",
+        "lib/net20/ExcelDataReader.dll",
+        "lib/net20/ExcelDataReader.pdb",
+        "lib/net20/ExcelDataReader.xml",
+        "lib/net45/ExcelDataReader.dll",
+        "lib/net45/ExcelDataReader.pdb",
+        "lib/net45/ExcelDataReader.xml",
+        "lib/netstandard1.3/ExcelDataReader.dll",
+        "lib/netstandard1.3/ExcelDataReader.pdb",
+        "lib/netstandard1.3/ExcelDataReader.xml",
+        "lib/netstandard2.0/ExcelDataReader.dll",
+        "lib/netstandard2.0/ExcelDataReader.pdb",
+        "lib/netstandard2.0/ExcelDataReader.xml"
       ]
     },
     "Microsoft.AspNetCore.Authentication.Abstractions/2.2.0": {
@@ -6786,6 +6875,16 @@
       "path": "../Sample.Dto/Sample.Dto.csproj",
       "msbuildProject": "../Sample.Dto/Sample.Dto.csproj"
     },
+    "Sample.Model/1.0.0": {
+      "type": "project",
+      "path": "../Sample.Model/Sample.Model.csproj",
+      "msbuildProject": "../Sample.Model/Sample.Model.csproj"
+    },
+    "Sample.Service/1.0.0": {
+      "type": "project",
+      "path": "../Sample.Service/Sample.Service.csproj",
+      "msbuildProject": "../Sample.Service/Sample.Service.csproj"
+    },
     "Sample.Util/1.0.0": {
       "type": "project",
       "path": "../Sample.Util/Sample.Util.csproj",
@@ -6794,9 +6893,13 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "AutoMapper >= 10.1.1",
+      "AutoMapper.Extensions.Microsoft.DependencyInjection >= 8.1.1",
       "Microsoft.EntityFrameworkCore >= 5.0.7",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.7",
       "Sample.Dao >= 1.0.0",
+      "Sample.Model >= 1.0.0",
+      "Sample.Service >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.1.4"
     ]
   },
@@ -6829,6 +6932,12 @@
           "projectReferences": {
             "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Dao\\Sample.Dao.csproj": {
               "projectPath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Dao\\Sample.Dao.csproj"
+            },
+            "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Model\\Sample.Model.csproj": {
+              "projectPath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Model\\Sample.Model.csproj"
+            },
+            "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Service\\Sample.Service.csproj": {
+              "projectPath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetCoreSampleWebAPI\\Sample.Service\\Sample.Service.csproj"
             }
           }
         }
@@ -6843,6 +6952,14 @@
       "net5.0": {
         "targetAlias": "net5.0",
         "dependencies": {
+          "AutoMapper": {
+            "target": "Package",
+            "version": "[10.1.1, )"
+          },
+          "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+            "target": "Package",
+            "version": "[8.1.1, )"
+          },
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
             "version": "[5.0.7, )"
