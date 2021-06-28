@@ -1,0 +1,17 @@
+D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Dao\bin\Release\net5.0\Sample.Dao.deps.json
+D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Dao\bin\Release\net5.0\Sample.Dao.dll
+D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Dao\bin\Release\net5.0\ref\Sample.Dao.dll
+D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Dao\bin\Release\net5.0\Sample.Dao.pdb
+D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Dao\bin\Release\net5.0\Sample.Dto.dll
+D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Dao\bin\Release\net5.0\Sample.Util.dll
+D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Dao\bin\Release\net5.0\Sample.Dto.pdb
+D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Dao\bin\Release\net5.0\Sample.Util.pdb
+D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Dao\obj\Release\net5.0\Sample.Dao.csproj.AssemblyReference.cache
+D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Dao\obj\Release\net5.0\Sample.Dao.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Dao\obj\Release\net5.0\Sample.Dao.AssemblyInfoInputs.cache
+D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Dao\obj\Release\net5.0\Sample.Dao.AssemblyInfo.cs
+D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Dao\obj\Release\net5.0\Sample.Dao.csproj.CoreCompileInputs.cache
+D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Dao\obj\Release\net5.0\Sample.Dao.csproj.CopyComplete
+D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Dao\obj\Release\net5.0\Sample.Dao.dll
+D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Dao\obj\Release\net5.0\ref\Sample.Dao.dll
+D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Dao\obj\Release\net5.0\Sample.Dao.pdb

@@ -11,10 +11,12 @@ D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Web\bin
 D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Web\bin\Debug\net5.0\AutoMapper.dll
 D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Web\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Web\bin\Debug\net5.0\ExcelDataReader.dll
+D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Web\bin\Debug\net5.0\Humanizer.dll
 D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
 D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Web\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
 D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
 D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
 D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
 D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll

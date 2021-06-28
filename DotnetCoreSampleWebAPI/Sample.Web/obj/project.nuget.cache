@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "o4o9+f3i8ctToWp7rFDbQ6uyMHvhw111jLEe9F+znQi+w5Nsk39Z23u7kAWSlkp8s2kyaIpr0EZoCjVQpPBQIA==",
+  "dgSpecHash": "qB7PiUc2/cjJ5KmInwV39nSbVAJtz9BlMz+9yC52/sXdJwpBrq1VL0pg4cUHqGDduItU66HDCd5MWVTC8iM6uw==",
   "success": true,
   "projectFilePath": "D:\\MyWork\\GitHub\\exercises\\Practice Dotnet\\DotnetcoreSampleWebAPI\\Sample.Web\\Sample.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aashiq\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Aashiq\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
     "C:\\Users\\Aashiq\\.nuget\\packages\\exceldatareader\\3.6.0\\exceldatareader.3.6.0.nupkg.sha512",
+    "C:\\Users\\Aashiq\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Aashiq\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Aashiq\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",
     "C:\\Users\\Aashiq\\.nuget\\packages\\microsoft.aspnetcore.authorization\\2.2.0\\microsoft.aspnetcore.authorization.2.2.0.nupkg.sha512",
@@ -30,6 +31,7 @@
     "C:\\Users\\Aashiq\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.7\\microsoft.entityframeworkcore.5.0.7.nupkg.sha512",
     "C:\\Users\\Aashiq\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.7\\microsoft.entityframeworkcore.abstractions.5.0.7.nupkg.sha512",
     "C:\\Users\\Aashiq\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.7\\microsoft.entityframeworkcore.analyzers.5.0.7.nupkg.sha512",
+    "C:\\Users\\Aashiq\\.nuget\\packages\\microsoft.entityframeworkcore.design\\5.0.7\\microsoft.entityframeworkcore.design.5.0.7.nupkg.sha512",
     "C:\\Users\\Aashiq\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.7\\microsoft.entityframeworkcore.relational.5.0.7.nupkg.sha512",
     "C:\\Users\\Aashiq\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\5.0.7\\microsoft.entityframeworkcore.sqlserver.5.0.7.nupkg.sha512",
     "C:\\Users\\Aashiq\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",

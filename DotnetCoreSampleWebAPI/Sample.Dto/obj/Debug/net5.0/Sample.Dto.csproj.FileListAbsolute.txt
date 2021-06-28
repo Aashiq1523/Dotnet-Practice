@@ -2,7 +2,6 @@ D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Dto\bin
 D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Dto\bin\Debug\net5.0\Sample.Dto.dll
 D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Dto\bin\Debug\net5.0\ref\Sample.Dto.dll
 D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Dto\bin\Debug\net5.0\Sample.Dto.pdb
-D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Dto\obj\Debug\net5.0\Sample.Dto.csproj.AssemblyReference.cache
 D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Dto\obj\Debug\net5.0\Sample.Dto.GeneratedMSBuildEditorConfig.editorconfig
 D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Dto\obj\Debug\net5.0\Sample.Dto.AssemblyInfoInputs.cache
 D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Dto\obj\Debug\net5.0\Sample.Dto.AssemblyInfo.cs

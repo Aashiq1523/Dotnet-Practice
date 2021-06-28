@@ -1,4 +1,6 @@
 D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Dao\bin\Debug\net5.0\Sample.Dao.deps.json
+D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Dao\bin\Debug\net5.0\Sample.Dao.runtimeconfig.json
+D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Dao\bin\Debug\net5.0\Sample.Dao.runtimeconfig.dev.json
 D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Dao\bin\Debug\net5.0\Sample.Dao.dll
 D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Dao\bin\Debug\net5.0\ref\Sample.Dao.dll
 D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Dao\bin\Debug\net5.0\Sample.Dao.pdb
@@ -15,3 +17,4 @@ D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Dao\obj
 D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Dao\obj\Debug\net5.0\Sample.Dao.dll
 D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Dao\obj\Debug\net5.0\ref\Sample.Dao.dll
 D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Dao\obj\Debug\net5.0\Sample.Dao.pdb
+D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Dao\obj\Debug\net5.0\Sample.Dao.genruntimeconfig.cache

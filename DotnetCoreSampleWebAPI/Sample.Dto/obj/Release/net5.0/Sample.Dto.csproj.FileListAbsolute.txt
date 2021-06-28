@@ -1,0 +1,12 @@
+D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Dto\bin\Release\net5.0\Sample.Dto.deps.json
+D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Dto\bin\Release\net5.0\Sample.Dto.dll
+D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Dto\bin\Release\net5.0\ref\Sample.Dto.dll
+D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Dto\bin\Release\net5.0\Sample.Dto.pdb
+D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Dto\obj\Release\net5.0\Sample.Dto.csproj.AssemblyReference.cache
+D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Dto\obj\Release\net5.0\Sample.Dto.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Dto\obj\Release\net5.0\Sample.Dto.AssemblyInfoInputs.cache
+D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Dto\obj\Release\net5.0\Sample.Dto.AssemblyInfo.cs
+D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Dto\obj\Release\net5.0\Sample.Dto.csproj.CoreCompileInputs.cache
+D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Dto\obj\Release\net5.0\Sample.Dto.dll
+D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Dto\obj\Release\net5.0\ref\Sample.Dto.dll
+D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Dto\obj\Release\net5.0\Sample.Dto.pdb
