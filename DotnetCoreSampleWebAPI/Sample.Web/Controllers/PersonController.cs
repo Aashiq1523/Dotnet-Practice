@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Sample.Model;
@@ -89,6 +90,7 @@ namespace Sample.Web.Controllers
             });
         }
 
+        [Authorize(Roles = "True")]
         [HttpGet("get-all-person")]
         public IActionResult GetAllPerson()
         {

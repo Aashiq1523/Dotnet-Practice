@@ -12,6 +12,10 @@ D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Web\bin
 D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Web\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Web\bin\Debug\net5.0\ExcelDataReader.dll
 D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Web\bin\Debug\net5.0\Humanizer.dll
+D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
 D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Web\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
 D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
@@ -21,6 +25,8 @@ D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Web\bin
 D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
 D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Web\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Web\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
 D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
 D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
 D:\MyWork\GitHub\exercises\Practice Dotnet\DotnetcoreSampleWebAPI\Sample.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
