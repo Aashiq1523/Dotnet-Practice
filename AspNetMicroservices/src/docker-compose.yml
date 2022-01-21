@@ -1,0 +1,17 @@
+version: '3.4'
+
+services:
+
+  #adding mongodb image into docker compose file for multi-container env
+  catalogdb:
+    image: mongo
+
+  catalog.api:
+    image: ${DOCKER_REGISTRY-}catalogapi
+    build:
+      context: .
+      dockerfile: Services/Catalog/Catalog.API/Dockerfile
+
+# data storage outside of the container and exist on the host file system
+volumes:
+  mongo_data:
