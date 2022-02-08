@@ -60,9 +60,16 @@ services:
       context: .
       dockerfile: ApiGateways/OcelotApiGw/Dockerfile
 
+  shopping.aggregator:
+    image: ${DOCKER_REGISTRY-}shoppingaggregator
+    build:
+      context: .
+      dockerfile: ApiGateways/Shopping.Aggregator/Dockerfile
+
 # data storage outside of the container and exist on the host file system
 volumes:
   mongo_data:
   portainer_data:
   postgres_data:
   pgadmin_data:
+
